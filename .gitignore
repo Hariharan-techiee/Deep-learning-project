@@ -43,3 +43,23 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 /firebase_config.dart
+
+# Flutter/Dart/Pub specific files
+.dart_tool/
+.flutter-plugins
+.packages
+build/
+
+# Visual Studio Code files
+.vscode/
+
+# IntelliJ related files
+.idea/
+
+# Android specific files
+android/.gradle/
+android/app/build/
+
+# iOS specific files
+ios/Pods/
+ios/Runner.xcworkspace/
